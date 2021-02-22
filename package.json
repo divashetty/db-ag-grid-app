@@ -19,8 +19,12 @@
     "@angular/platform-browser": "~11.2.0",
     "@angular/platform-browser-dynamic": "~11.2.0",
     "@angular/router": "~11.2.0",
+    "ag-grid": "^18.1.2",
+    "ag-grid-angular": "^25.1.0",
+    "ag-grid-community": "^25.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "xlsx": "^0.16.9",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
